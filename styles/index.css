@@ -1,0 +1,107 @@
+.apptitle {
+  text-align: center;
+  margin: 30px;
+  font-size: 60px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Secular One", sans-serif;
+  color: #495371;
+}
+
+.citysearch {
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+.citybar {
+  margin: 0px 15px;
+  width: 350px;
+}
+
+.city {
+  padding-top: 10px;
+}
+
+.cw-weather {
+  text-align: right;
+}
+
+.cw-text {
+  font-size: 25px;
+  text-transform: capitalize;
+}
+
+.cw-details {
+  list-style: none;
+}
+
+span.cw-item {
+  font-weight: bold;
+}
+
+li.low,
+li.high {
+  font-size: 25px;
+}
+
+li.low {
+  color: #00b4d8;
+}
+
+li.high {
+  color: #ef6d6d;
+  margin-bottom: 8px;
+}
+
+.currenticon {
+  text-align: center;
+  font-size: 100px;
+}
+
+.city,
+.date {
+  text-align: center;
+}
+
+.card {
+  border: 5px solid rgb(104, 104, 104);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 40, 70, 0.3);
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgba(216, 241, 230, 0.46) 0.1%,
+    rgba(233, 226, 226, 0.28) 90.1%
+  );
+}
+
+.forecast {
+  text-align: center;
+  margin: 10px;
+}
+
+.fc-icon {
+  font-size: 30px;
+}
+
+p.fc-day {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p.high,
+p.low {
+  font-size: 18px;
+}
+
+p.high {
+  color: #00b4d8;
+}
+
+p.low {
+  color: #ef6d6d;
+}
+
+p {
+  margin: 0;
+}
