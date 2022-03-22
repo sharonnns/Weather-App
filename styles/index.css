@@ -105,3 +105,9 @@ p.low {
 p {
   margin: 0;
 }
+
+.github-link {
+  display: block;
+  text-align: center;
+  font-size: small;
+}
